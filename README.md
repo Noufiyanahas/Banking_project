@@ -1,1 +1,1 @@
-# Banking_project
+The Banking project developed using python.It focuses on essential functionalities for user account management. In this project I use OOPs concept and functionalities of this system includes account login, amount depositing, and amount withdrawal.
